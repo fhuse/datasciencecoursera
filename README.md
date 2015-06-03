@@ -1,2 +1,2 @@
 # datasciencecoursera
-DataScienceSoursera
+DataScienceCoursera
